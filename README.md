@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7hassan&label=Profile%20views&color=0e75b6&style=flat" alt="7hassan" /> </p>
 
-- 🔭 I’m currently working on [Cera Shop](https://github.com/7Hassan/Cera-Website)
+- 🔭 I’m currently working on [Daily Manager](https://github.com/7Hassan/Daily-Manager)
 
 - 🌱 I’m currently learning **Advanced Back-End security**
 
