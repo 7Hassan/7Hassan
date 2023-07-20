@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<span>+20 1027045352</span>
+<span>7hassan.dev.gmail.com</span>
 <a href="https://linkedin.com/in/hassan-hossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-hossam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/egoker1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="egoker1234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
