@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">I'm Full-Stack developer using ( Node.js | Express | MongoDB | React )</h3>
+<div align="center">
+<img src="https://cdn0.iconfinder.com/data/icons/smileys-people-hand-gestures-add-on-vol-2/48/v-20-512.png" align="center" height="150" width="150" />
+</div>  
+  
 
+### <div align="center">I'm Hassan Hossam, Software Engineer</div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7hassan&label=Profile%20views&color=0e75b6&style=flat" alt="7hassan" /> </p>
 
 - 🔭 I’m currently working on [Portofolio](https://github.com/7Hassan/portofolio)
@@ -14,11 +17,15 @@
 - 📫 How to reach me **hassanhossam.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<p>+20 1027045352</p>
-<p>hassanhossam.dev@gmail.com</p>
-<a href="https://linkedin.com/in/hassan-hossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-hossam" height="30" width="40" /></a>
-</p>
+<div align="left">
+<div>+201027045352</div>
+   <br/>
+<div>hassanhossam.dev@gmail.com</div>
+      <br/>
+<a href="https://linkedin.com/in/hassan-hossam" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
