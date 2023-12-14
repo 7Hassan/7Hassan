@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on [Portofolio](https://github.com/7Hassan/portofolio)
 
-- 🌱 I’m currently learning **Advanced Back-End security**
-
-- 🤝 I’m looking for help with **Building Full Websites**
-
 - 💬 Ask me about **any thing in Web Development**
 
 - 📫 How to reach me **hassanhossam.dev@gmail.com**
